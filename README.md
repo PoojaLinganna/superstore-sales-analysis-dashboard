@@ -29,7 +29,7 @@ The dataset contains over **50,000 retail transactions** including sales, profit
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard_screenshot.png)
 
 ## Author
 
