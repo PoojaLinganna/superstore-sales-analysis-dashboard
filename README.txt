@@ -1,32 +1,38 @@
-Superstore Sales Analysis Dashboard
+# Superstore Sales Analysis Dashboard
 
-Project Overview
+## Overview
 
-This project analyzes retail sales data using **Excel and Power BI** to identify sales trends, regional performance, and top-selling products.
+This project analyzes retail sales data using Excel and Power BI to uncover insights about sales performance, product categories, and regional trends.
 
-Tools Used
+## Tools Used
 
-Microsoft Excel
-Microsoft Power BI
+* Microsoft Excel (Data Cleaning & Pivot Tables)
+* Microsoft Power BI (Data Visualization & Dashboard)
 
-Key Insights
+## Dataset
 
-Total Sales: $13M+
-Total Profit: $1.47M
-Technology category generated the highest sales.
-Some regions contribute more revenue than others.
+The dataset contains over **50,000 retail transactions** including sales, profit, product categories, and regional data.
 
-Dashboard Features
+## Key Business Questions
 
-Sales by Region
-Sales by Category
-Monthly Sales Trend
-Top Products Analysis
-Interactive Filters
+* Which regions generate the highest sales?
+* Which product categories perform best?
+* How do sales trends change over time?
+* What are the top-selling products?
 
-Dashboard Preview
+## Dashboard Features
 
-![Dashboard](dashboard.png)
+* Total Sales and Profit KPIs
+* Sales by Region
+* Sales by Category
+* Monthly Sales Trend
+* Top 10 Products
+* Interactive Filters
 
-Author
-Pooja Linganna
+## Dashboard Preview
+
+![Dashboard](images/dashboard_preview.png)
+
+## Author
+
+Pooja L
