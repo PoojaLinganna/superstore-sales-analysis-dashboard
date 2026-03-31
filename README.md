@@ -30,7 +30,3 @@ The dataset contains over **50,000 retail transactions** including sales, profit
 ## Dashboard Preview
 
 ![Dashboard](dashboard_screenshot.png)
-
-## Author
-
-Pooja L
